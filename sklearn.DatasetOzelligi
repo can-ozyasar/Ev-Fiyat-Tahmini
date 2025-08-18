@@ -1,0 +1,3 @@
+from sklearn.datasets import fetch_california_housing #! verileri içe aktarıyoruz
+
+california =fetch_california_housing()  bu şekilde de içe aktarıyoruz
