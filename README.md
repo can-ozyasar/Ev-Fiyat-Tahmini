@@ -2,11 +2,23 @@
 
 Ev fiyatlarını tahmin etmeye yönelik makine öğrenmesi notebook projesi.
 
-## Öne Çıkanlar
+## Bu Repo Ne İçin Var?
+Regresyon modelleriyle ev fiyatı tahmini yapmayı ve model değerlendirme adımlarını öğrenmek için oluşturuldu.
+
+Bu README'nin amacı; repoya ilk kez gelen birinin projenin neden açıldığını, içinde ne bulunduğunu ve nereden başlaması gerektiğini hızlıca anlamasını sağlamaktır.
+
+## İçerik ve Kapsam
+Bu repoda öne çıkan içerikler şunlardır:
 - Regresyon problemi
 - Model eğitimi ve değerlendirme akışı
 - Jupyter Notebook ile tekrar edilebilir analiz
-- Kullanılan ana teknolojiler: Jupyter Notebook
+- Jupyter Notebook dosyalarıyla adım adım deney/analiz akışı
+
+## Kimler İçin Faydalı?
+Veri bilimi/makine öğrenmesi pratiği yapmak, notebook akışını takip etmek veya benzer bir analiz kurmak isteyenler için uygundur.
+
+## Kullanılan Teknolojiler
+- Jupyter Notebook
 
 ## Çalıştırma
 ```bash
